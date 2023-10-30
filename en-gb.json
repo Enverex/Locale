@@ -5,6 +5,10 @@
 
         "Undo.ChangeColor": "Change Colour",
 
+        "Undo.ChangeColor": "Change Colour",
+
+        "Tooltips.Brush.ChangeColor" : "Change Colour",
+
         "Tooltip.Color.Picker": "Colour Picker",
 
         "Tooltip.Microphone.SourceFiltered": "Filtered & Normalised",
